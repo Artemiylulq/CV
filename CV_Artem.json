@@ -1,0 +1,43 @@
+{
+   "Name":"Artsem Shamsutdzinau",
+   "Position":"QA Engineer",
+   "Description":"Junior Manual QA Engineer is seeking an interesting position that offers opportunities for professional growth and realization.",
+   "Skills":[
+      "Understanding of Software Development Processes",
+      "Knowledge of Different Testing Methodologies",
+      "Understanding of Agile and Scrum methodologies",
+      "SQL and Database Knowledge",
+      "Test Case Design",
+      "Test Documentation"
+   ],
+   "Tools":[
+      "Jira",
+      "Postman",
+      "Git",
+      "DevTools",
+      "PostgreSQL"
+   ],
+   "WorkHistory":{
+      "Company":"MTEC-3",
+      "Position":"Power engineer",
+      "DateOfWork":"June 2017-Current",
+      "WorkDescription":"Design, configuration, maintenance, and monitoring of information-measuring instruments and automation and control systems."
+   },
+   "Education":[
+      {
+         "PlaceOfEducation":"Courses Belhard Academy",
+         "Speciality":"Manual QA Engineer",
+         "DateOfEducation":"December 2024 - February 2025"
+      },
+      {
+         "PlaceOfEducation":"Belarusian National Technical University",
+         "Speciality":"Power engineer",
+         "DateOfEducation":"September 2018 - June 2024"
+      },
+      {
+         "PlaceOfEducation":"Minsk State Energy College",
+         "Speciality":"Technician",
+         "DateOfEducation":"September 2011 - June 2015"
+      }
+   ]
+}
