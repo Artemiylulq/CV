@@ -1,5 +1,0 @@
-info 1
-info 2 upd
-info 3 upd
-info 4
-info 5
