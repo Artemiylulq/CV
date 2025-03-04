@@ -3,19 +3,21 @@
    "Position":"QA Engineer",
    "Description":"Manual QA Engineer is seeking an interesting position that offers opportunities for professional growth and realization.",
    "Skills":[
-      "Understanding of Software Development Processes",
-      "Knowledge of Different Testing Methodologies",
-      "Understanding of Agile and Scrum methodologies",
-      "SQL and Database Knowledge",
-      "Test Case Design",
-      "Test Documentation"
+      "Test documentation - experience in checklists, test cases, bug reports",
+      "Test design techniques - using test techniques",
+      "Understanding software development methodology",
+      "Knowledge of the life cycle of a defect",
+      "General view of Web technology, understanding of what and where is used: XML, CSS, HTML, HTTP, DNS",
+      "SQL - practiced in data selection",
+      "Git - experience with version control systems",
+      "API testing - experience with API testing using Postman. Creating collections in Postman"
    ],
    "Tools":[
-      "Jira",
       "Postman",
-      "Git",
       "DevTools",
-      "PostgreSQL"
+      "GitHub",
+      "SourceTree",
+      "IntelliJ IDEA"
    ],
    "WorkHistory":{
       "Company":"MTEC-3",
